@@ -3,4 +3,7 @@
 
  **Repositorio Criado durante uma aula**
  
- Essa linha eu *acidicionei* diretamente pelo site
+## Cursos Completos
+- [x] JavaScript
+- [x] HTML5 & CSS3 1 Modulo
+- [ ] Git & Github
