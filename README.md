@@ -6,4 +6,4 @@
 ## Cursos Completos
 - [x] JavaScript
 - [x] HTML5 & CSS3 1 Modulo
-- [ ] Git & Github
+- [x] Git & Github
